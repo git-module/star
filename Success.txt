@@ -5,3 +5,4 @@ Some more changes from feature branch
 Name changes
 Double check
 Commit check
+New changes added
